@@ -1,0 +1,37 @@
+.size{
+    width: 300px;
+    border-radius: 17px 17px 0px 0px;
+    height: 400px;
+}
+
+.faded{
+  border-radius: 20px;  
+  border: 2px solid black;
+  width: 300px;
+}
+
+.safirii{
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.safirii-title{
+    font-size: larger;
+    font-weight: 200;
+}
+
+.black-owned{
+    font-size: 0.7em;
+    border-radius: 40px;
+    background-color: blue;
+    width: fit-content;
+    padding: 5px;
+    color: aliceblue;
+    margin: 10px;
+    
+
+}
+.tag-parent{
+    display: flex;
+    gap:0.2em
+}
